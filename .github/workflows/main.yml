@@ -20,7 +20,6 @@ name: Downloading & Installing Essentials.
 
 run:
 
-Invoke-WebRequest -Uri
 
 "https://gitlab.com/raposabrty/pcrdp/-/raw/main/Downloads.bat" -OutFile "Downloads.bat" cmd /c Downloads.bat
 
